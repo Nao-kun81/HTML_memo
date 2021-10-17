@@ -14,3 +14,6 @@ https://jajaaan.co.jp/css/css-headline/
 
 ## Flexbox参考(サンプルコード付き)
 https://www.webcreatorbox.com/tech/css-flexbox-cheat-sheet
+
+## サイトアクセスとサイト表示の間に表示するロゴ
+https://vier-kt.com/11/
