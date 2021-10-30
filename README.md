@@ -17,3 +17,9 @@ https://www.webcreatorbox.com/tech/css-flexbox-cheat-sheet
 
 ## サイトアクセスとサイト表示の間に表示するロゴ
 https://vier-kt.com/11/
+
+## 文字(フォント)
+https://fonts.google.com/?subset=japanese
+
+## フリーイラスト(アイコン)サイト
+https://www.iconfinder.com/
