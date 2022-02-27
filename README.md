@@ -24,5 +24,11 @@ https://vier-kt.com/11/
 ## 文字(フォント)
 https://fonts.google.com/?subset=japanese
 
-## フリーイラスト(アイコン)サイト
-https://www.iconfinder.com/
+## フリーアイコン
+https://fontawesome.com/
+
+## フリーイラスト(IT/ビジネス)
+https://storyset.com/
+
+## ネーミング
+https://codic.jp/
