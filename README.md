@@ -29,6 +29,3 @@ https://fontawesome.com/
 
 ## フリーイラスト(IT/ビジネス)
 https://storyset.com/
-
-## ネーミング
-https://codic.jp/
